@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NuevaActividad</string>
+    <string name="BotonSiguiente">siguiente</string>
+    <string name="tv1">Primer Activity</string>
+    <string name="BotonAnterior">anterior</string>
+    <string name="tv2">Segundo Activity</string>
+</resources>
